@@ -1,0 +1,2 @@
+DROP INDEX IF EXISTS idx_todos_title;
+DROP TABLE IF EXISTS todos;
